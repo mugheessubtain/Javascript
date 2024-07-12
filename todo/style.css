@@ -1,0 +1,31 @@
+.hide{
+    display: none;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    width: 184px;
+    border: 1px solid red;
+}
+
+.body{
+    /* display: flex;
+    justify-content: center; */
+    width: 300px;
+    border-radius: 10px;
+    background-color: gray;
+}
+.todo-input{
+    /* heightpx: 40px; */
+    /* width: ; */
+    border-radius: 10px;
+}
+.add-btn{
+    border-radius: 6px;
+    padding:  4px;
+
+}
+.para{
+    display: flex;
+    justify-content: center;
+}
